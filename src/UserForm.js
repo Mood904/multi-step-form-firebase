@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import Biography from './steps/Biography'
+import Biography from '../src/steps/Biography'
 import Confirm from './steps/Confirm'
 import UserDetails from './steps/UserDetails'
 import Welcome from './steps/Welcome'
